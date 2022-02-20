@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e388ad90-68d7-4c60-8b38-08251d6b616b" name="Changes" comment="Few files added">
-      <change beforePath="$PROJECT_DIR$/templates/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/market.html" afterDir="false" />
+    <list default="true" id="e388ad90-68d7-4c60-8b38-08251d6b616b" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/market_dir/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/market_dir/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/market_dir/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackmart.py" beforeDir="false" afterPath="$PROJECT_DIR$/blackmart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/market.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,6 +48,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\I.M. PAWS\PycharmProjects\BlackMart\market_dir" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="blackmart" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -105,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645378324144</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1645378364008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645378364008</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +146,7 @@
     <MESSAGE value="Start File" />
     <MESSAGE value="Added Default" />
     <MESSAGE value="Few files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Few files added" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
