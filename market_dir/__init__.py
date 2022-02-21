@@ -11,7 +11,7 @@ class MySQLAlchemy(SQLAlchemy):
 
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db1.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db1.db'+'?check_same_thread=False'
 db = MySQLAlchemy(app)
 
 # Importing modules and routes

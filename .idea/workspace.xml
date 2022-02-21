@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e388ad90-68d7-4c60-8b38-08251d6b616b" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/market_dir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market_dir/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market_dir/routes.py" afterDir="false" />
+    <list default="true" id="e388ad90-68d7-4c60-8b38-08251d6b616b" name="Changes" comment="Added new Files.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blackmart.py" beforeDir="false" afterPath="$PROJECT_DIR$/blackmart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/market.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_dir/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_dir/db1.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/market_dir/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/market_dir/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645378364008</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new Files.">
+      <created>1645392264758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645392264758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +147,7 @@
     <MESSAGE value="Added Default" />
     <MESSAGE value="Few files added" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="Added new Files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new Files." />
   </component>
 </project>
