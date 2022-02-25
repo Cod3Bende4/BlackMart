@@ -1,2 +1,2 @@
 # Website under development
-## Checkout development branch for more info
+## Check "Development" branch to check dev files
